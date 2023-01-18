@@ -10,7 +10,7 @@ import java.util.List;
 import  java.util.Map;
 
 public class Main {
-   // private static final String FILE_NAME = "my_task_one.txt";
+   //private static final String FILE_NAME = "my_task_one.txt";
     public static void main(String[] args) throws IOException {
 
         ObjectMapper mapper = new ObjectMapper();

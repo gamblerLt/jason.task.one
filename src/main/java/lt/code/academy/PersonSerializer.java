@@ -14,8 +14,8 @@ public class PersonSerializer extends StdSerializer<Person> {
     @Override
     public void serialize(Person person, JsonGenerator jsonGenerator, SerializerProvider serializerProvider) throws IOException {
         jsonGenerator.writeStartObject();
-        jsonGenerator.writeStringField("name", person.name());
-        jsonGenerator.writeStringField("surname", person.surname());
+        jsonGenerator.writeStringField("name", "Vardas");
+        jsonGenerator.writeStringField("surname", "Pavarde");
         jsonGenerator.writeEndObject();
     }
 }

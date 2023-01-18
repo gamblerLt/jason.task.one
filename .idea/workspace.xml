@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5700bbc0-afeb-4bdf-a6ed-3c938c207600" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_task_one.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonSerializer.java" afterDir="false" />
+    <list default="true" id="5700bbc0-afeb-4bdf-a6ed-3c938c207600" name="Changes" comment="Day18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person.json" beforeDir="false" afterPath="$PROJECT_DIR$/person.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Payment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonSerializer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +91,13 @@
       <option name="presentableId" value="Default" />
       <updated>1673981685018</updated>
     </task>
+    <task id="LOCAL−00001" summary="Day18">
+      <created>1674041984151</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674041984151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Day18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day18" />
   </component>
 </project>

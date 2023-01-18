@@ -18,7 +18,7 @@ public class PersonDeserializer extends StdDeserializer<Person> {
         String personName = getValue(jsonNode, "personName");
         String personSurname = getValue(jsonNode,"personSurname");
 
-        return new Person(personName, personSurname);
+        return new Person("Vardas", "Pavarde");
     }
     private String getValue(JsonNode jsonNode, String fieldname) {
         JsonNode value = jsonNode.get(fieldname);
