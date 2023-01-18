@@ -23,7 +23,8 @@ public class Person implements Serializable {
 /*    @JsonProperty("name")
     String name,
     @JsonProperty("surname")
-    String surname;*/
+    String surname;
+    to be deleted*/
 
 
 

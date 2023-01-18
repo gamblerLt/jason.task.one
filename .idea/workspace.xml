@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5700bbc0-afeb-4bdf-a6ed-3c938c207600" name="Changes" comment="1task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/PersonSerializer.java" afterDir="false" />
+    <list default="true" id="5700bbc0-afeb-4bdf-a6ed-3c938c207600" name="Changes" comment="1taskFromHome">
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -77,6 +78,13 @@
       <option name="presentableId" value="Default" />
       <updated>1673981685018</updated>
     </task>
+    <task id="LOCAL−00001" summary="1taskFromHome">
+      <created>1674058796280</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674058796280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1taskCopiedFromHome" />
+    <MESSAGE value="1taskFromHome" />
+    <option name="LAST_COMMIT_MESSAGE" value="1taskFromHome" />
   </component>
 </project>
